@@ -3,21 +3,21 @@ layout: post
 ---
 ## Procedure
 This procedure will allow you to prepare an STL file of an amino acid side chain. It does not currently include the steps to print the finished file. 
-# ChemDraw:
+### ChemDraw:
 1.	Open ChemDraw.
 2.	Select File -> Open Templates -> Amino Acid Side Chains.
 3.	Select the side chain of the amino acid you would like to print. They are organized in a table by their three-letter abbreviation.
 4.	Under the tools bar, select Lasso.
 5.	Use the lasso tool to highlight the amino acid side chain.
 6.	Copy the highlighted side chain using CTRL+C or right click -> Copy. You will paste the amino acid structure directly into Chem3D.
-# Chem3D:
+### Chem3D:
 7.	Open Chem3D.
 8.	On the right side under “ChemDraw - LiveLink” paste the side chain using CTRL+V or right click -> Paste.
 9.	In the top bar, select Calculations -> MM2 -> Minimize Energy.
 10.	Select Run.
 11.	Select File -> Save As.
 12.	Save your file with “SYBYL2 (*.mol2)” as the file type.
-# Chimera:
+### Chimera:
 13.	Open Chimera.
 14.	Select File -> Open.
 15.	Select your .mol2 file.
@@ -33,7 +33,7 @@ This procedure will allow you to prepare an STL file of an amino acid side chain
 - setattr p drawMode 1
 20.	Select File -> Export Scene
 21.	Save your file with “VMRL [.wrl, .vmrl]” as the file type.
-# Blender:
+### Blender:
 22.	Open Blender.
 23.	Click “x” to delete the cube that is in the file by default.
 24.	In the side bar, select MolPrint.
