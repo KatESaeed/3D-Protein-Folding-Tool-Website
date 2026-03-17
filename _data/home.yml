@@ -1,12 +1,18 @@
 navbar_entries:
-  - title: about
+  - title: Home
+    url: home
+    
+  - title: Abstract
     url: about
 
-  - title: blog
+  - title: STL Files
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Software Download
+    url: blog
+
+  - title: Github
+    url: https://github.com/KatESaeed/3D-Protein-Folding-Tool
 
 project_entries:
   - title: Project 1
