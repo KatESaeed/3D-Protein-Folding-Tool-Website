@@ -5,11 +5,11 @@ navbar_entries:
   - title: Abstract
     url: abstract
 
-  - title: STL Files
-    url: blog
-
   - title: Software Download
     url: software-download
+    
+  - title: Procedure
+    url: procedure
 
   - title: Github
     url: https://github.com/KatESaeed/3D-Protein-Folding-Tool
