@@ -3,7 +3,8 @@ author: Katherine Saeed
 url: https://katesaeed.github.io/3D-Protein-Folding-Tool-Website/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   This tool is designed to assist instructors in demonstrating protein folding based on the chemistry of the amino acid side chains. We have provided STL files of all 20 human amino acid side chains and a clamp designed to attach to the side chains and a bendy tube (linked below). We have also included our procedure and the software used to create the side chain files. We recommend downloading all software before following the procedure.
-abstract: test abstract
+abstracttext: >
+  test abstract
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -33,6 +34,7 @@ theme_config:
     title_misc_list: Details
     title_blog: Blog
     title_old_projects: Old Projects
+  abstract
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
