@@ -6,7 +6,8 @@ layout: post
 ## ChemDraw and Chem3D
 ChemDraw is a very helpful tool to create 2D models of amino acids and other molecules. Chem3D can be used to display molecules in 3D. These programs may require separate downloads.
 
-**Download:** https://connect.revvitysignals.com/sitesubscription/
+**Download:** 
+[ChemDraw and Chem3D]([https://link-url-here.org](https://connect.revvitysignals.com/sitesubscription/))
 
 ## UCSF Chimera
 Chimera is a powerful visualizng tool that can be used for structural analysis of proteins and other biological molecules. We use it to set the visualizing style of our molecules including the way atoms are displayed and the size and thickness of the atoms and bonds.
