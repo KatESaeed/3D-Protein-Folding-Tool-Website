@@ -13,6 +13,7 @@ navbar_entries:
 
   - title: Github
     url: https://github.com/KatESaeed/3D-Protein-Folding-Tool
+    
 project_entries:
   - title: Project 1
     url: overview-post
