@@ -12,7 +12,7 @@ ChemDraw is a very helpful tool to create 2D models of amino acids and other mol
 ## UCSF Chimera
 Chimera is a powerful visualizng tool that can be used for structural analysis of proteins and other biological molecules. We use it to set the visualizing style of our molecules including the way atoms are displayed and the size and thickness of the atoms and bonds.
 
-**Download:** https://www.cgl.ucsf.edu/chimera/download.html
+**Download:**
 [Chimera](https://www.cgl.ucsf.edu/chimera/download.html)
 
 ## Blender
@@ -26,5 +26,5 @@ Blender is a 3D computer graphic software. We will use it to build the 3D model 
 ## MolPrint
 MolPrint is an add-on to Blender that makes minipulating and preparing the molecules for 3D printing much easier. It is created by Dr. Paul Paukstelis.
 
-**Download:** https://github.com/paukstelis/MolPrint
+**Download:** 
 [MolPrint](https://github.com/paukstelis/MolPrint)
