@@ -5,6 +5,9 @@ navbar_entries:
   - title: Abstract
     url: abstract
 
+  - title: About Protein Folding
+    url: protein-folding
+
   - title: Software Download
     url: software-download
     
