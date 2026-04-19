@@ -2,11 +2,11 @@ navbar_entries:
   - title: Home
     url: https://katesaeed.github.io/3D-Protein-Folding-Tool-Website/
     
-  - title: Abstract
-    url: abstract
+  - title: Paper
+    url: paper
 
-  - title: Protein Folding
-    url: protein-folding
+  - title: Poster
+    url: poster
 
   - title: Software Download
     url: software-download
