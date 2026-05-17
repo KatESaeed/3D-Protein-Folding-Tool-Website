@@ -2,4 +2,5 @@
 layout: post
 title: Poster
 ---
-![poster](images/poster.jpg)
+![poster](https://github.com/KatESaeed/3D-Protein-Folding-Tool-Website/blob/master/images/poster.jpg?raw=true)
+
