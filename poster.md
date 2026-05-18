@@ -1,2 +1,2 @@
-![poster](/images/poster.jpg)
+![poster](/poster.jpg)
 
