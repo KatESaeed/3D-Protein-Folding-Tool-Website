@@ -1,9 +1,6 @@
 navbar_entries:
   - title: Home
     url: https://katesaeed.github.io/3D-Protein-Folding-Tool-Website/
-    
-  - title: Paper
-    url: paper
 
   - title: Poster
     url: poster
